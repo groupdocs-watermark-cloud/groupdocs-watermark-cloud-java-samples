@@ -15,10 +15,4 @@ Directory | Description
 --------- | -----------
 [Examples](Examples)  | A collection of Java Cloud SDK examples that help you learn the product features
 
-## Resources
-
-+ **Website:** [www.groupdocs.cloud](http://www.groupdocs.cloud)
-+ **Product Home:** [GroupDocs.Watermark Cloud SDK for Java](https://products.groupdocs.cloud/watermark/java)
-+ **Documentation:** [GroupDocs.Watermark Cloud SDK Documentation](https://docs.groupdocs.cloud/display/watermarkcloud/Home)
-+ **Free Support:** [GroupDocs.Watermark Cloud SDK Free Support Forum](https://forum.groupdocs.cloud/c/watermark)
-+ **Blog:** [GroupDocs.Watermark Cloud SDK Blog](https://blog.groupdocs.cloud/category/watermark)
+[Home](https://www.groupdocs.cloud/) | [Product Page](https://products.groupdocs.cloud/watermark/java) | [Docs](https://docs.groupdocs.cloud/watermark/) | [Demos](https://products.groupdocs.app/watermark/family) | [API Reference](https://apireference.groupdocs.cloud/watermark/) | [Source Code](https://github.com/groupdocs-watermark-cloud/groupdocs-watermark-cloud-java) | [Blog](https://blog.groupdocs.cloud/category/watermark/) | [Free Support](https://forum.groupdocs.cloud/c/watermark) | [Free Trial](https://purchase.groupdocs.cloud/trial)
